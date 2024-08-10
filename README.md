@@ -1,10 +1,12 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+#![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work]
+!['Hey there, I'm James. 'I'm a bioinformatician, a functional genomics expert and  machine learning enthusiast. Check out my work]
+(https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
+[![Twitter Followers](https://img.shields.io/twitter/follow/Sacco_jf?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Sacco_jf) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/jsacco1?logo=GitHub&style=for-the-badge)](https://github.com/jsacco1) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/jsacco1?logo=github&style=for-the-badge)](https://github.com/jsacco1) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/jsacco1?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/jsacco1)
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sudo_Overflow](https://twitter.com/sudo_overflow). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://Cyris.io) for my blog and more.
+I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sacco_jf](https://twitter.com/Sacco_jf). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://jsacco1.github.io/) for my blog and more.
 
 &nbsp;
 
@@ -19,10 +21,10 @@ I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A se
 ## ✏️ &nbsp;Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
-- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
-- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
-- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
+#- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
+#- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
+#- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
+#- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
@@ -41,8 +43,6 @@ I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A se
 
 ## 📊 &nbsp;Stats
 
-![Cyris' Github Stats](https://github-readme-stats.vercel.app/api?username=CyrisXD&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![James's Github Stats](https://github-readme-stats.vercel.app/api?username=jsacco1&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrisXD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-<a rel="me" href="https://mastodon.nz/@Sudo_Overflow">Follow me on Mastodon</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsacco1&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
