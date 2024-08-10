@@ -11,7 +11,7 @@ I'm a software developer based in New Zealand. I enjoy coding open-source projec
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [CRISPR-Bio)(https://github.com/jsacco1/crispr-bio), a working module for CRISPR data analysis. It will be free and open source. Follow the [Github](https://github.com/jsacco1/crispr-bio) feed to keep up with progress.
+I'm currently working on [CRISPR-Bio](https://github.com/jsacco1/crispr-bio), a working module for CRISPR data analysis. It will be free and open source. Follow the [Github](https://github.com/jsacco1/crispr-bio) feed to keep up with progress.
 
 &nbsp;
 
