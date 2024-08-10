@@ -5,7 +5,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sacco_jf](https://twitter.com/Sacco_jf). Feel free to tweet me any time. You can also check out my website [https://jsacco1.github.io/](https://jsacco1.github.io/) for my blog and more.
+I'm a bioinformatician based in San Francisco, CA. I enjoy learning about how I can empower biomedical insights with computational tools. I love to stay up to date on the latest in functional genomics, including CRISPR and single cell analysis and multi-omics integration. I'm also deeply interested in the application of machine learning to develop personalized treatments and new therapeutic strategies. You can find me on Twitter [@Sacco_jf](https://twitter.com/Sacco_jf). Feel free to tweet me any time. You can also check out my website [https://jsacco1.github.io/](https://jsacco1.github.io/) for my blog and more.
 
 &nbsp;
 
