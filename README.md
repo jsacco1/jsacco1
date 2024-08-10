@@ -1,4 +1,4 @@
-!['Hey there, I'm James. 'I'm a bioinformatician, a functional genomics expert and  machine learning enthusiast. Check out my work]
+!['Hey there, I'm James. 'I'm a bioinformatician, a functional genomics expert and  machine learning enthusiast. Check out my work']
 (https://github.com/jsacco1/jsacco1/blob/master/header.gif)
 
 [![Twitter Followers](https://img.shields.io/twitter/follow/Sacco_jf?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://x.com/Sacco_jf) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/jsacco1?logo=GitHub&style=for-the-badge)](https://github.com/jsacco1) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/jsacco1?logo=github&style=for-the-badge)](https://github.com/jsacco1) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/jsacco1?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/jsacco1)
