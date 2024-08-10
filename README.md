@@ -5,7 +5,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sacco_jf](https://twitter.com/Sacco_jf). Feel free to tweet me any time. You can also check out my website [Cyris.io](https://jsacco1.github.io/) for my blog and more.
+I'm a software developer based in New Zealand. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Sacco_jf](https://twitter.com/Sacco_jf). Feel free to tweet me any time. You can also check out my website [https://jsacco1.github.io/](https://jsacco1.github.io/) for my blog and more.
 
 &nbsp;
 
@@ -18,10 +18,8 @@ I'm currently working on [CRISPR-Bio)(https://github.com/jsacco1/crispr-bio), a 
 ## ✏️ &nbsp;Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-#- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
-#- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
-#- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
-#- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
+- [Streamlining Bioinformatics Projects with CI/CD Using Nextflow and Github Actions](https://jsacco1.github.io//Nextflow_Github_Actions_CICD_example/)
+- [Single-cell python modules with Travis CI](https://jsacco1.github.io//automated_directory_travis/)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
