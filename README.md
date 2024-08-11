@@ -32,7 +32,7 @@ I'm currently working on [CRISPR-Bio](https://github.com/jsacco1/crispr-bio), a 
 ## 🖥 &nbsp;Past work
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jsacco1&repo=vcf_annotate)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jsacco1&repo=vcf_annotate)
 (https://github.com/jsacco1/vcf_annotate)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jsacco1&repo=github-readme-stats)](https://github.com/jsacco1/crispresso2)
