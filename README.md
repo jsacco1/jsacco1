@@ -31,7 +31,8 @@ I'm currently working on [CRISPR-Bio](https://github.com/jsacco1/crispr-bio), a 
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jsacco1&repo=crispresso2&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/jsacco1/vcf_annotate) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jsacco1&repo=crispresso2&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/jsacco1/crispresso2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
+(https://github.com/jsacco1/vcf_annotate) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/jsacco1/crispresso2)
 
 &nbsp;
 
