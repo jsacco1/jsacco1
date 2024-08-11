@@ -1,10 +1,12 @@
-Hey there, I'm James. I'm a bioinformatician, a functional genomics expert, and machine learning enthusiast. Check out my work 👇
+Hey there, I'm James, a scientist, a functional genomics expert, and machine learning enthusiast. Welcome to my Github. Check out my work 👇
 
 [![Twitter Followers](https://img.shields.io/twitter/follow/Sacco_jf?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://x.com/Sacco_jf) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/jsacco1?logo=GitHub&style=for-the-badge)](https://github.com/jsacco1) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/jsacco1?logo=github&style=for-the-badge)](https://github.com/jsacco1) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/jsacco1?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/jsacco1)
 
 # 👋 &nbsp;Hi there
 
-I'm based in San Francisco, CA. I enjoy learning about how I can empower biomedical insights with computational tools. I love to stay up to date on the latest in functional genomics, including CRISPR and single cell analysis and multi-omics integration. I'm also deeply interested in the application of machine learning to develop personalized treatments and new therapeutic strategies. You can find me on Twitter [@Sacco_jf](https://twitter.com/Sacco_jf). Feel free to tweet me any time. You can also check out my website [https://jsacco1.github.io/](https://jsacco1.github.io/) for my blog and more.
+I'm a bioinformatician based in San Francisco, CA, USA. I enjoy learning about how I can empower biomedical insights with computational tools. I love to stay up to date on the latest in functional genomics, including CRISPR and single cell analysis and multi-omics integration. I'm also deeply interested in the application of artificial intelligence/machine learning (AI/ML) to develop personalized treatments and new therapeutic strategies. 
+
+You can find me on Twitter [@Sacco_jf](https://twitter.com/Sacco_jf). Feel free to tweet me any time. You can also check out my website [https://jsacco1.github.io/](https://jsacco1.github.io/) for my blog and more.
 
 &nbsp;
 
@@ -34,7 +36,7 @@ I'm currently working on [CRISPR-Bio](https://github.com/jsacco1/crispr-bio), a 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jsacco1&repo=vcf_annotate)](https://github.com/jsacco1/vcf_annotate)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jsacco1&repo=crispresso2)](https://github.com/jsacco1/crispresso2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jsacco1&repo=crispresso)](https://github.com/jsacco1/crispresso)
 
 &nbsp;
 
