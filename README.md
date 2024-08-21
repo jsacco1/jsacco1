@@ -12,7 +12,7 @@ You can find me on Twitter [@Sacco_jf](https://twitter.com/Sacco_jf). Feel free 
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [CRISPR-Bio](https://github.com/jsacco1/crispr-bio), a working module for CRISPR data analysis. It will be free and open source. Follow the [Github](https://github.com/jsacco1/crispr-bio) feed to keep up with progress.
+I'm currently working on [CRISPRia Design](https://github.com/jsacco1/CRISPRiaDesign), a working module for CRISPR interference/activation (CRISPRi/a) library design by targeting cell-type specific transcription start sites. I would like to thank [Horlbeck et. al.](https://pubmed.ncbi.nlm.nih.gov/27661255/) from the Weissman lab for their work in designing v2 of their CRISPRi/a genome-widelibrary. Follow the [Github](https://github.com/jsacco1/CRISPRiaDesign) feed to keep up with my progress.
 
 &nbsp;
 
