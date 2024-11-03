@@ -4,7 +4,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a bioinformatician based in San Francisco, CA, USA. I enjoy learning about how I can empower biomedical insights with computational tools. I love to stay up to date on the latest in functional genomics, including CRISPR and single cell analysis and multi-omics integration. I'm also deeply interested in the application of artificial intelligence/machine learning (AI/ML) to develop personalized treatments and new therapeutic strategies. 
+I'm a bioinformatician based in San Francisco, CA, USA. I enjoy learning to derive biomedical insights with computational tools from complex datasets. I love to stay up to date on the latest in functional genomics, including CRISPR screens, single-cell analysis, and multi-omics integration. I'm also deeply interested in the application of artificial intelligence/machine learning (AI/ML) to develop personalized treatments and new therapeutic strategies. 
 
 You can find me on Twitter [@Sacco_jf](https://twitter.com/Sacco_jf). Feel free to tweet me any time. You can also check out my website [https://jsacco1.github.io/](https://jsacco1.github.io/) for my blog and more.
 
