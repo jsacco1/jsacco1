@@ -8,6 +8,8 @@ I'm a bioinformatician based in San Francisco, CA, USA. I enjoy learning about h
 
 You can find me on Twitter [@Sacco_jf](https://twitter.com/Sacco_jf). Feel free to tweet me any time. You can also check out my website [https://jsacco1.github.io/](https://jsacco1.github.io/) for my blog and more.
 
+Hire me for consultations. 
+
 &nbsp;
 
 ## 👇 &nbsp;Current project
